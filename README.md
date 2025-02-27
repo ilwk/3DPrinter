@@ -1,16 +1,20 @@
-# My Voron Trident
+# TORON
 
-## 3D Printer
+![Overview](Images/Overview.jpg)
 
-![Voron Trident](./images/voron-trident.jpg)
+TORON is a 300x300x300 CoreXY printer primarily featuring components from other projects:
 
-## 3D Printer
+* [Voron Trident](https://github.com/VoronDesign/Voron-Trident)
 
-![Voron Trident](./images/voron-trident.jpg)
+## BOM
 
-## Mods
-- [Magnetic panels](https://mods.vorondesign.com/details/GawFyXN2J0rlSecCAJUpZQ)
-- [Pins Mod](https://mods.vorondesign.com/details/C8XJJ0fBGfBFKQZctjKeA)
-- [Trident Inverted Electronics](https://mods.vorondesign.com/details/pXkXHVIUbqSWqQKJISczw)
-- [Wago Mounts](https://mods.vorondesign.com/details/u6PTkFoOllSE4jmasKCHQ)
-- [Flat Mesh Skirt](https://www.printables.com/model/644512-flat-mesh-skirt-voron-trident-350300250mm)
+### Frame
+
+```
+4x HFS5-4040-550-SC-LCP-RCP-AV360
+9x HFS5-2040-370-TPW-SC
+1x HFS5-2040-370-TPW-SC-AH185
+1x HFS5-2040-330-TPW-SC
+1x HFS5-2020-240-SC
+1x HFS5-2020-370-SC
+```
